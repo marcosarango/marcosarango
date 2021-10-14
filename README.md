@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @marcosarango
 - 👀 I’m interested in help in different projects and improve my programming skills
-- 🌱 I am studying at BYU-I online for my undergraduate degree applied to technology:
+- 🌱 I am studying at BYU-I for my undergraduate degree applied to technology:
 * Python
 * HTML
 * CSS
